@@ -1,0 +1,1 @@
+Ex().check_function('myData.to_csv').check_args('path_or_buf').has_equal_value()

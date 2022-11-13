@@ -1,0 +1,1 @@
+Ex().check_function("matplotlib.pyplot.boxplot").check_args('x').has_equal_value()

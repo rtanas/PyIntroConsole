@@ -1,0 +1,1 @@
+Ex().check_function('myData.describe')
