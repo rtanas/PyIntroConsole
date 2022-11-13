@@ -1,0 +1,1 @@
+Ex().check_function('pandas.read_csv').check_args('filepath_or_buffer').has_equal_value()
