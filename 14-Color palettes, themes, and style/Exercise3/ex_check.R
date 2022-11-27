@@ -1,0 +1,10 @@
+Ex().check_function("seaborn.lmplot").multi(
+  check_args("x").has_equal_value()
+  check_args("y").has_equal_value()
+  check_args("data").has_equal_value()
+)
+Ex().check_function("matplotlib.pyplot.title")
+Ex().check_function("matplotlib.pyplot.xlabel")
+Ex().check_function("matplotlib.pyplot.ylabel")
+Ex().check_function("matplotlib.pyplot.xlim")
+Ex().check_function("matplotlib.pyplot.ylim")

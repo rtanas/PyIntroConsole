@@ -1,0 +1,8 @@
+Ex().check_function("seaborn.lmplot").multi(
+  check_args("x").has_equal_value()
+  check_args("y").has_equal_value()
+  check_args("data").has_equal_value()
+  check_args("scatter_kws").has_equal_value()
+)
+Ex().check_function("matplotlib.pyplot.title")
+Ex().check_function("seaborn.set_style").check_args("style").has_equal_value()
