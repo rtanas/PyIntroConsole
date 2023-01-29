@@ -1,0 +1,1 @@
+Ex().has_code("import\s*\pandas as\s*\pd")
