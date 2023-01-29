@@ -1,1 +1,2 @@
-myData=pd.read_csv("https://raw.githubusercontent.com/bachmannpatrick/Python-Class/master/data/transactions.csv")
+#Select purchases made on 19.12.2010 or on 21.12.2010
+# ...
