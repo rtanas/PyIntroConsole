@@ -5,3 +5,4 @@ myData=pd.read_csv("https://raw.githubusercontent.com/bachmannpatrick/Python-Cla
 #help(pd.to_datetime)
 
 myData["TransDate"]  = pd.to_datetime(myData["TransDate"],format="%d.%m.%Y",utc=True)
+myData.describe()
