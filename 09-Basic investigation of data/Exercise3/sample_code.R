@@ -1,2 +1,2 @@
-# use describe
+# check if the change was made correctly (it works also if you did not solve the previous)
 # ...
