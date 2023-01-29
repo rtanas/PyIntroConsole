@@ -1,0 +1,1 @@
+myData.loc[(myData["PurchAmount"]>100)&(myData["PurchAmount"]<200), ["Customer","Cost"]]

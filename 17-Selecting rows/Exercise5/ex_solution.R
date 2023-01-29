@@ -1,0 +1,1 @@
+myData.loc[(myData["TransDate"]>pd.to_datetime("2009-01-01")) & (myData["PurchAmount"]>100), ]

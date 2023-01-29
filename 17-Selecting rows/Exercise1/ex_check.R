@@ -1,0 +1,1 @@
+Ex().has_code("myData.iloc\s*\[\s*9:20,\s*\]")
