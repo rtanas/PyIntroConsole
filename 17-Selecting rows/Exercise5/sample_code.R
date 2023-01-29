@@ -1,2 +1,2 @@
-#Select all purchases with quantities between 2 and 5
+#Select all purchases with purchase amount greater than 100 
 # ...
