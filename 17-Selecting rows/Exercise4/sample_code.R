@@ -1,1 +1,2 @@
-myData=pd.read_csv("https://raw.githubusercontent.com/bachmannpatrick/Python-Class/master/data/transactions.csv")
+# select all purchases with quantities between 2 and 5
+# ...
