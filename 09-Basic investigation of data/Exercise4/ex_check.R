@@ -1,1 +1,1 @@
-Ex().check_function('myData.describe')
+Ex().has_code('myData.describe')
